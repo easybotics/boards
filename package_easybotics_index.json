@@ -1,7 +1,7 @@
 {
 	"packages": [
 	{
-		"name": "ardubiped",
+		"name": "arduBiped",
 		"maintainer": "Easybotics", 
 		"websiteURL": "https://easybotics.com",
 		"email": "admin@easybotics.com", 
@@ -10,7 +10,7 @@
 		},
 		"platforms": [
 			{
-				"name": "Easybotics Ardubiped",
+				"name": "arduBiped",
 				"architecture": "avr", 
 				"version": "1.2.0", 
 				"category": "Contributed", 
