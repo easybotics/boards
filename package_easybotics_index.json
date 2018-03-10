@@ -17,7 +17,7 @@
 				"help": { 
 					"online": "https://easybotics.com" 
 				},
-				"url": "https://easybotics.github.io/boards/boards/easybotics-boards-1.02.tar.bz2",
+				"url": "https://easybotics.github.io/boards/boards/easybotics-boards-1.0.2.tar.bz2",
 				"archiveFileName": "easybotics-boards-1.02.tar.bz2",
 				"checksum": "SHA-256:ca21b96e39ba916bc825d234228901b297ac8ddf7903696c65aa18532c45f8ed",
 				"size": "5001300",
