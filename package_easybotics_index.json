@@ -4,7 +4,7 @@
 		"name": "ardubiped",
 		"maintainer": "Easybotics", 
 		"websiteURL": "https://easybotics.com",
-		"email": "chester@easybotics.com", 
+		"email": "admin@easybotics.com", 
 		"help": {
 			"online": "http://easybotics.com"
 		},
@@ -17,10 +17,10 @@
 				"help": { 
 					"online": "https://easybotics.com" 
 				},
-				"url": "https://u.teknik.io/b3GWe.zip",
-				"archiveFileName": "b3GWe.zip",
-				"checksum": "SHA-256:233ef0efd3c292f2e0d048fbe05e7f39c61a782a3a2dbf17cf9b5e861cc43151",
-				"size": "6051451",
+				"url": "https://easybotics.github.io/boards/boards/easybotics-boards-1.02.tar.bz2",
+				"archiveFileName": "easybotics-boards-1.02.tar.bz2",
+				"checksum": "SHA-256:ca21b96e39ba916bc825d234228901b297ac8ddf7903696c65aa18532c45f8ed",
+				"size": "5001300",
 				"boards": [
 					{"name": "Ardubiped"}
 				],
