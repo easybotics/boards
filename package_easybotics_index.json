@@ -10,7 +10,7 @@
 		},
 		"platforms": [
 			{
-				"name": "arduBiped",
+				"name": "Easybotics arduBiped",
 				"architecture": "avr", 
 				"version": "1.2.0", 
 				"category": "Contributed", 
@@ -22,7 +22,7 @@
 				"checksum": "SHA-256:ca21b96e39ba916bc825d234228901b297ac8ddf7903696c65aa18532c45f8ed",
 				"size": "5001300",
 				"boards": [
-					{"name": "Ardubiped"}
+					{"name": "arduBiped"}
 				],
 				"toolsDependencies": [
 			  ]
