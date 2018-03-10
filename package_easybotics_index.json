@@ -19,8 +19,8 @@
 				},
 				"url": "https://easybotics.github.io/boards/boards/easybotics-boards-1.0.2.tar.bz2",
 				"archiveFileName": "easybotics-boards-1.02.tar.bz2",
-				"checksum": "SHA-256:d87aeb4273358238122a4b5c7d82a1015d32cc23216ef0420739967db69cd5f7",
-				"size": "66731",
+				"checksum": "SHA-256:d0d15361d9e308c2d09448726a32730d3d7d4321118579148b350c8e097a8759",
+				"size": "66755",
 				"boards": [
 					{"name": "arduBiped"}
 				],
