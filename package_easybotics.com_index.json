@@ -1,0 +1,39 @@
+{
+	"packages": [
+	{
+		"name": "ardubiped",
+		"maintainer": "Ben Bintley", 
+		"websiteURL": "https://easybotics.com",
+		"email": "chester@easybotics.com", 
+		"help": {
+			"online": "http://easybotics.com"
+		},
+		"platforms": [
+			{
+				"name": "Ardubiped",
+				"architecture": "avr", 
+				"version": "1.2.0", 
+				"category": "Contributed", 
+				"help": { 
+					"online": "https://easybotics.com" 
+				},
+				"url": "https://u.teknik.io/b3GWe.zip",
+				"archiveFileName": "b3GWe.zip",
+				"checksum": "SHA-256:233ef0efd3c292f2e0d048fbe05e7f39c61a782a3a2dbf17cf9b5e861cc43151",
+				"size": "6051451",
+				"boards": [
+					{"name": "Ardubiped"}
+				],
+				"toolsDependencies": [
+			  ]
+			}
+		],
+		"tools":
+		[
+        ]
+        }
+		
+		]
+	}
+			]
+}
