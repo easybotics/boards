@@ -1,7 +1,7 @@
 {
 	"packages": [
 	{
-		"name": "arduBiped",
+		"name": "Easybotics arduBiped",
 		"maintainer": "Easybotics", 
 		"websiteURL": "https://easybotics.com",
 		"email": "admin@easybotics.com", 
