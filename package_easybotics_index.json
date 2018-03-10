@@ -1,7 +1,7 @@
 {
 	"packages": [
 	{
-		"name": "arduBiped",
+		"name": "Easybotics arduBiped",
 		"maintainer": "Easybotics", 
 		"websiteURL": "https://easybotics.com",
 		"email": "admin@easybotics.com", 
@@ -10,7 +10,7 @@
 		},
 		"platforms": [
 			{
-				"name": "arduBiped",
+				"name": "Easybotics arduBiped",
 				"architecture": "avr", 
 				"version": "1.2.0", 
 				"category": "Contributed", 
@@ -22,7 +22,7 @@
 				"checksum": "SHA-256:d87aeb4273358238122a4b5c7d82a1015d32cc23216ef0420739967db69cd5f7",
 				"size": "66731",
 				"boards": [
-					{"name": "Ardubiped"}
+					{"name": "arduBiped"}
 				],
 				"toolsDependencies": [
 			  ]
